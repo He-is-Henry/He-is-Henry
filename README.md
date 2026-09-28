@@ -15,10 +15,6 @@ Full-stack engineer (backend-heavy) based in Lagos. I build production web and m
 **RehabLens**: Mobile physiotherapy app that uses on-device camera pose detection for real-time rep tracking and posture feedback. NestJS backend with JWT auth, OTP verification, session caps, cursor pagination and audit logging. `React Native` `Expo Router` `NestJS` `MongoDB`
 → [Mobile](https://github.com/He-is-Henry/rehablens-mobile) · [API](https://github.com/He-is-Henry/rehablens-api) · [Web](https://github.com/He-is-Henry/rehablens-web)
 
-**[CrowdBridge](https://github.com/He-is-Henry/crowdbridge)**: Connects brands and event organizers to real, engaged audiences across campuses and cities. `TypeScript`
-
-**[Admission Compass](https://github.com/He-is-Henry/admission-compass-frontend)**: Next.js frontend for an admissions guidance product, including PDF report rendering. `Next.js` `TypeScript`
-
 **[GP Simulator](https://github.com/He-is-Henry/gp-simulator)**: Grade point simulator for Nigerian undergrads. `JavaScript`
 
 ## Stack
