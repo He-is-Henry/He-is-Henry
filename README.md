@@ -1,6 +1,6 @@
 # Hey, I'm Basit 👋
 
-Full-stack engineer (backend-heavy) based in Lagos. I build production web and mobile systems as **HDW (Henry's Digital Workshop)**: publishing platforms, payments, auth, real-time apps. Online I go by Henry.
+Full-stack engineer (backend-heavy) based in Lagos. I build production web and mobile systems as **HDW (Henry's Digital Workshop)**: publishing platforms, payments, auth, real-time apps.
 
 🌐 [Portfolio](https://olanrewajubasit.vercel.app) · 💼 [LinkedIn](https://linkedin.com/in/basit-olanrewaju) · ✉️ henries90@gmail.com
 
